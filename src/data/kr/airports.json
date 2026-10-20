@@ -1,0 +1,182 @@
+[
+  {
+    "icao": "RKSI",
+    "iata": "ICN",
+    "name_ko": "인천국제공항",
+    "name_en": "SEOUL / Incheon INTL",
+    "latitude": 37.4625,
+    "longitude": 126.4391667,
+    "airport_type": "INTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKSS",
+    "iata": "GMP",
+    "name_ko": "김포국제공항",
+    "name_en": "SEOUL / GIMPO International",
+    "latitude": 37.5569444,
+    "longitude": 126.7975,
+    "airport_type": "INTL-NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKPC",
+    "iata": "CJU",
+    "name_ko": "제주국제공항",
+    "name_en": "JEJU / Jeju International",
+    "latitude": 33.5122222,
+    "longitude": 126.4927778,
+    "airport_type": "INTL-NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKPK",
+    "iata": "PUS",
+    "name_ko": "김해국제공항",
+    "name_en": "BUSAN / Gimhae International",
+    "latitude": 35.1805556,
+    "longitude": 128.9380556,
+    "airport_type": "INTL-NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKTU",
+    "iata": "CJJ",
+    "name_ko": "청주국제공항",
+    "name_en": "CHEONGJU",
+    "latitude": 36.7163889,
+    "longitude": 127.4991667,
+    "airport_type": "INTL-NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKNY",
+    "iata": "YNY",
+    "name_ko": "양양국제공항",
+    "name_en": "YANGYANG",
+    "latitude": 38.0613889,
+    "longitude": 128.6691667,
+    "airport_type": "INTL-NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKTN",
+    "iata": "TAE",
+    "name_ko": "대구공항",
+    "name_en": "DAEGU",
+    "latitude": 35.8941667,
+    "longitude": 128.6588889,
+    "airport_type": "INTL-NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKJB",
+    "iata": "MWX",
+    "name_ko": "무안국제공항",
+    "name_en": "MUAN",
+    "latitude": 34.9913889,
+    "longitude": 126.3827778,
+    "airport_type": "INTL-NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKJJ",
+    "iata": "KWJ",
+    "name_ko": "광주공항",
+    "name_en": "GWANGJU",
+    "latitude": 35.1263889,
+    "longitude": 126.8088889,
+    "airport_type": "NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKJK",
+    "iata": "KUV",
+    "name_ko": "군산공항",
+    "name_en": "GUNSAN",
+    "latitude": 35.9038889,
+    "longitude": 126.6158333,
+    "airport_type": "NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKJY",
+    "iata": "RSU",
+    "name_ko": "여수공항",
+    "name_en": "YEOSU",
+    "latitude": 34.8422222,
+    "longitude": 127.6172222,
+    "airport_type": "NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKNW",
+    "iata": "WJU",
+    "name_ko": "원주공항",
+    "name_en": "WONJU",
+    "latitude": 37.4380556,
+    "longitude": 127.9602778,
+    "airport_type": "NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKPS",
+    "iata": "HIN",
+    "name_ko": "사천공항",
+    "name_en": "SACHEON",
+    "latitude": 35.0886111,
+    "longitude": 128.0705556,
+    "airport_type": "NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKPU",
+    "iata": "USN",
+    "name_ko": "울산공항",
+    "name_en": "ULSAN",
+    "latitude": 35.5933333,
+    "longitude": 129.3522222,
+    "airport_type": "NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKSM",
+    "iata": "SSN",
+    "name_ko": "서울공항",
+    "name_en": "SEOUL",
+    "latitude": 37.4458333,
+    "longitude": 127.1141667,
+    "airport_type": "NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKTH",
+    "iata": "KPO",
+    "name_ko": "포항경주공항",
+    "name_en": "POHANG GYEONGJU",
+    "latitude": 35.9877778,
+    "longitude": 129.4186111,
+    "airport_type": "NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKTL",
+    "iata": "",
+    "name_ko": "울진비행장",
+    "name_en": "ULJIN",
+    "latitude": 36.7769444,
+    "longitude": 129.4616667,
+    "airport_type": "NTL",
+    "traffic_types": "IFR/VFR"
+  },
+  {
+    "icao": "RKPD",
+    "iata": "",
+    "name_ko": "정석비행장",
+    "name_en": "JEONGSEOK",
+    "latitude": 33.3983333,
+    "longitude": 126.7130556,
+    "airport_type": "NTL",
+    "traffic_types": "IFR/VFR"
+  }
+]

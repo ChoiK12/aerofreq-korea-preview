@@ -1,0 +1,12 @@
+/* App.css에서 전체 화면 스타일을 관리합니다. */
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  min-height: 100%;
+}
